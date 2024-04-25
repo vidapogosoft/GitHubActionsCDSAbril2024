@@ -11,6 +11,7 @@ namespace MyProject
             Console.WriteLine("Hello Github actions!");
             Console.WriteLine();
             Console.WriteLine("Press any key to close");
+            Console.WriteLine("Change for github actions");
             Console.ReadKey();
         }
     }
